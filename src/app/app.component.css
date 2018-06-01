@@ -1,0 +1,6 @@
+.console {
+  height: 300px;
+  width: 100%;
+  overflow-y: scroll;
+  border: 1px solid grey;
+}
